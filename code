@@ -19,5 +19,6 @@ int main()
     printf("Multiplication of the numbers = %d\n", multiply);
     printf("Dividing 1st number from 2nd = %f\n", divide);
     printf("\n\n\t\t\tCoding is Fun !\n\n\n");
+    return 0;
 
 }
